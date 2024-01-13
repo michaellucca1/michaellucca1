@@ -28,9 +28,14 @@
 <!--  <a href="mailto:pedro.sales.muniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a> -->
-  <a href="https://linkedin.com/in/MichaelLucca" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+
+<a href="https://linkedin.com/in/MichaelLucca" target="_blank">
+<img src="https://camo.githubusercontent.com/f4adefaea1ee9f1f4a3f1a7d8e4e18ec333483fc7cdd2a7caecfd2a009629607/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6e6e6563742d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e" target="_blank" />
   </a>
+    
+  <!--  <a href="https://linkedin.com/in/MichaelLucca" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a> -->
 <!--  <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options />
   </a> -->
