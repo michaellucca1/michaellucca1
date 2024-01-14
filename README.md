@@ -12,15 +12,17 @@
 - <b>Project 1</b>
   - [Project 1 Placeholder](https://github.com/michaellucca1/Project1)
   
-- <b>Project 2</b>
-  - [Project 2 Placeholder](https://github.com/michaellucca1/Project2)
-    
-- <b>Project 3</b>
-  - [Project 3 Placeholder](https://github.com/michaellucca1/Project3)
-    
-- <b>Project 4</b>
-  - [Project 4 Placeholder](https://github.com/michaellucca1/Project4)
-    
+   
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Project 1</b>
+  - [Active Directory Home Lab](https://github.com/michaellucca1/LABURL)
+
+
+<h2>📺 Popular YouTube Videos</h2>
+
+<!-- - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s) -->
+
 
 <h2> 🤳 Connect with me:</h2>
  
